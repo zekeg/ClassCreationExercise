@@ -1,0 +1,15 @@
+C:\Users\zecha\Documents\True Coders\repos\ClassCreationExercise\bin\Debug\net6.0\ClassCreationExercise.exe
+C:\Users\zecha\Documents\True Coders\repos\ClassCreationExercise\bin\Debug\net6.0\ClassCreationExercise.deps.json
+C:\Users\zecha\Documents\True Coders\repos\ClassCreationExercise\bin\Debug\net6.0\ClassCreationExercise.runtimeconfig.json
+C:\Users\zecha\Documents\True Coders\repos\ClassCreationExercise\bin\Debug\net6.0\ClassCreationExercise.dll
+C:\Users\zecha\Documents\True Coders\repos\ClassCreationExercise\bin\Debug\net6.0\ClassCreationExercise.pdb
+C:\Users\zecha\Documents\True Coders\repos\ClassCreationExercise\obj\Debug\net6.0\ClassCreationExercise.csproj.AssemblyReference.cache
+C:\Users\zecha\Documents\True Coders\repos\ClassCreationExercise\obj\Debug\net6.0\ClassCreationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zecha\Documents\True Coders\repos\ClassCreationExercise\obj\Debug\net6.0\ClassCreationExercise.AssemblyInfoInputs.cache
+C:\Users\zecha\Documents\True Coders\repos\ClassCreationExercise\obj\Debug\net6.0\ClassCreationExercise.AssemblyInfo.cs
+C:\Users\zecha\Documents\True Coders\repos\ClassCreationExercise\obj\Debug\net6.0\ClassCreationExercise.csproj.CoreCompileInputs.cache
+C:\Users\zecha\Documents\True Coders\repos\ClassCreationExercise\obj\Debug\net6.0\ClassCreationExercise.dll
+C:\Users\zecha\Documents\True Coders\repos\ClassCreationExercise\obj\Debug\net6.0\refint\ClassCreationExercise.dll
+C:\Users\zecha\Documents\True Coders\repos\ClassCreationExercise\obj\Debug\net6.0\ClassCreationExercise.pdb
+C:\Users\zecha\Documents\True Coders\repos\ClassCreationExercise\obj\Debug\net6.0\ClassCreationExercise.genruntimeconfig.cache
+C:\Users\zecha\Documents\True Coders\repos\ClassCreationExercise\obj\Debug\net6.0\ref\ClassCreationExercise.dll
